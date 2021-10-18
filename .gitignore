@@ -1,0 +1,6 @@
+HELP.md
+target/
+.mvn/
+
+### IntelliJ IDEA ###
+.idea/
