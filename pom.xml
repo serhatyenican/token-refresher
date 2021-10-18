@@ -11,7 +11,7 @@
 	<groupId>com.srt.roster</groupId>
 	<artifactId>token-refresher</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>tokenRefresher</name>
+	<name>token-refresher</name>
 	<description>Refresh keycloak token sample app</description>
 	<properties>
 		<java.version>1.8</java.version>
